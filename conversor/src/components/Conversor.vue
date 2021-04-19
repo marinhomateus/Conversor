@@ -35,12 +35,16 @@ export default {
                 let cotacao = json[de_para];
                 this.moedaB_value = (cotacao * parseFloat(this.moedaA_value)).toFixed(2);
             })
-
         }
     }
 };
 </script>
 
 <style scoped>
-
+    .conversor{
+        max-width: 300px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        border: 1px solid #bbb;
+        padding: 20px;
+    }
 </style>
