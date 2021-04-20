@@ -1,0 +1,23 @@
+{
+  "name": "conversor",
+  "version": "1.0.0",
+  "description": "*** <img align-items: center src=\"/Conversor/public/exemplo.png\" alt=\"Conversor de Moedas\"/>",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinhomateus/conversor.git"
+  },
+  "author": "Mateus Marinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinhomateus/conversor/issues"
+  },
+  "homepage": "https://github.com/marinhomateus/conversor#readme"
+}
